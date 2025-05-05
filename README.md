@@ -63,8 +63,7 @@ Instruções para desenvolvimento dos exercícios:
 
 12. **Verificador de Palíndromo**  
     Dada uma string (array de `char`), diga se ela é um palíndromo (ex: “arara”, “radar”).
-
-13. **Soma Diagonal Principal**  
+13. **Soma .Diagonal Principal**  
     Crie uma matriz `4x4` e calcule a soma da diagonal principal.
 
 ---
